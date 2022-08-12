@@ -1,0 +1,6 @@
+CalculatorXam.MainActivity, CalculatorXam;crc644007c81ff947fa8a.MainActivity
+CalculatorXam.MainActivity;crc644007c81ff947fa8a.MainActivity
+calculatorxam.MainActivity;crc644007c81ff947fa8a.MainActivity
+Google.Common.Util.Concurrent.IListenableFuture, Xamarin.Google.Guava.ListenableFuture;com.google.common.util.concurrent.ListenableFuture
+Google.Common.Util.Concurrent.IListenableFuture;com.google.common.util.concurrent.ListenableFuture
+com.google.common.util.concurrent.ListenableFuture;com.google.common.util.concurrent.ListenableFuture
