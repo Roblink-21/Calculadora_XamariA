@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/58180852/184413585-be2c95e7-b6a8-4992-ba9d-ceb5c0bef172.png)
 
 #Codigo
-
+El desarrollo de esta aplicacion se la hizo a traves de Xamarin android nativo, la cual nos ofrece elementos necesarios para trabajar con la interfaz e implementacion de metodos necesarios para incluir la logica del programa.
 ![image](https://user-images.githubusercontent.com/58041699/184435087-8160339a-1be6-4ada-b114-828b8ff13fc1.png)
 
 ![image](https://user-images.githubusercontent.com/58041699/184435136-e917c983-f71d-4970-a1ea-f47a809cdff4.png)
