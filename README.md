@@ -25,6 +25,7 @@ De esta forma, en la aplicacion nosotros hemos utilizado varios botones los cual
 
 ![image](https://user-images.githubusercontent.com/58041699/184435218-206c4ba0-011f-4d66-9d57-3773abe4ed50.png)
 
+Los botones estan vinculados a traves de condiciones que determinan si el numero es digitado se mostrar en pantalla o si la operacion a realizar tiene los dos numeros realizara la suma o resta necesaria.
 ![image](https://user-images.githubusercontent.com/58041699/184435295-050f3c1a-3e41-41c0-9160-1eac2bbf5d67.png)
 
 #Funcionamiento 
